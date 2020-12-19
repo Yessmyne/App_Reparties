@@ -1,1 +1,3 @@
+Programme Client/Serveur: 
+Le serveur reçoit un entier positif de la part du client et il doit afficher tous les nombres premiers inférieurs ou égal à cet entier.
 
